@@ -1,8 +1,3 @@
 # GCPB7
 
-asdfasdfasdf
-asdfa
-sdfasdf
-asdf
-asdf
-
+This is something I'd like to send to my repo
